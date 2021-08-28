@@ -1,0 +1,112 @@
+h2{
+    color: skyblue;
+}
+section{
+    height: 500px;
+    margin-left: 200px;  
+    margin-right: 200px; 
+}
+.hire-me{
+    color: whitesmoke;
+    font-weight: 300;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 9px;
+    background-image:linear-gradient( 45deg,cyan,red);
+}
+.intro{
+    width: 500px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.intro img{
+    width: 60%;
+}
+.topper-banner{
+    background-image:url(header-bg.png);
+}
+.read-cv{
+    color: whitesmoke;
+    font-weight: 300;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 9px;
+    background-image:linear-gradient( 45deg,cyan,red);
+}
+.Biography{
+    width: 500px;
+    float: left;
+    padding-left: 50px;
+    padding-top: 100px;
+}
+.Biography img{
+    width: 60%;
+}
+.middle-banner{
+    background-image: url(biography-bg.png);
+}
+.least-work{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 400;
+    padding-top: 5px;
+}
+.third-banner{
+    background-image:linear-gradient( 150deg,whitesmoke,cyan)
+}
+.work{
+    float: left;
+    padding: 5px;
+    margin: 8px;
+    border-radius: 14px;
+}
+.last-banner{
+    background-image: url(last-bg.png)
+}
+.client{
+    text-align: center;
+    font-size: 40px;
+}
+.mack{
+    text-align: center;
+    font-size:30px;
+}
+.ceo{
+    text-align: center;
+    font-size:25px;
+    margin-top:-15px;
+}
+.moto{
+    text-align: center;
+    padding-top:15px;
+    font-size: 30px;
+}
+.motos{
+    text-align: center;
+    padding-bottom:25px;
+    font-size: 30px;
+    margin-top: -20px;
+}
+.community{
+    background-image: linear-gradient(cyan,lightcyan);
+    height: 150px;
+    padding-top: 1px;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: -30px;
+    border-radius:25px;
+    font-weight: 400;
+}
+.massage{
+    text-align: center;
+    padding-bottom:15px;
+    font-size: 30px;
+}
+.mail{
+    text-align: center;
+    padding-bottom:25px;
+    font-size: 30px;
+    margin-top: -30px;
+    color: dimgray;
+}
